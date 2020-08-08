@@ -1,3 +1,3 @@
 # paraphraseAI
 solving paraphrasing tasks with state of the art approaches
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+![](https://ibb.co/51Rsxbw)
