@@ -1,5 +1,6 @@
 # paraphraseAI
-solving paraphrasing tasks with state of the art approaches
+
+## solving paraphrasing tasks with state of the art approaches
 
 
 `The project is in the research phase. `
